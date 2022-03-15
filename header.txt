@@ -4,3 +4,4 @@ changes from <first>
 Changes from <master> - new changes
 
 a
+b
